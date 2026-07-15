@@ -15,7 +15,7 @@
 
 <br />
 
-[![Website](https://img.shields.io/badge/mavenslab.tech-121619?style=for-the-badge&logo=googlechrome&logoColor=FCFF56)](https://mavenslab.tech) [![Email](https://img.shields.io/badge/info@mavenslab.tech-121619?style=for-the-badge&logo=maildotru&logoColor=FCFF56)](mailto:info@mavenslab.tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-121619?style=for-the-badge&logo=linkedin&logoColor=FCFF56)](https://www.linkedin.com/company/mavens-tech-lab) [![Status](https://img.shields.io/badge/%E2%97%8F_Open_to_new_projects-FCFF56?style=for-the-badge&labelColor=121619)](mailto:info@mavenslab.tech)
+[![Website](https://img.shields.io/badge/mavenslab.tech-121619?style=for-the-badge&logo=googlechrome&logoColor=FCFF56)](https://mavenslab.tech) [![Skills](https://img.shields.io/badge/Agent_skills-121619?style=for-the-badge&logo=anthropic&logoColor=FCFF56)](https://mavenslab.tech/skills) [![Email](https://img.shields.io/badge/info@mavenslab.tech-121619?style=for-the-badge&logo=maildotru&logoColor=FCFF56)](mailto:info@mavenslab.tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-121619?style=for-the-badge&logo=linkedin&logoColor=FCFF56)](https://www.linkedin.com/company/mavens-tech-lab) [![Status](https://img.shields.io/badge/%E2%97%8F_Open_to_new_projects-FCFF56?style=for-the-badge&labelColor=121619)](mailto:info@mavenslab.tech)
 
 </div>
 
@@ -81,7 +81,27 @@ We take products from a first sketch to a store release — the storefront, the 
 
 ---
 
-## `04`  Start a project
+## `04`  Open-source agent skills
+
+The skills we sharpen on client work, published for everyone — free, MIT-licensed extensions for **Claude Code**, Cursor, Codex, Copilot, and 70+ other coding agents, from [**Mavens-Tech-Lab/skills**](https://github.com/Mavens-Tech-Lab/skills).
+
+| Skill | What it does |
+| :-- | :-- |
+| [**json-ld**](https://mavenslab.tech/skills/json-ld) | Scans the codebase for every entity worth marking up, verifies against the live schema.org release — never model memory — and wires JSON-LD to your real data flow |
+| [**compliance-pages**](https://mavenslab.tech/skills/compliance-pages) | Reads your stack, then generates the privacy policy, terms, support, and contact pages it actually needs — plus a cookie banner that gates your real trackers |
+
+```sh
+/plugin marketplace add Mavens-Tech-Lab/skills   # Claude Code
+npx skills add Mavens-Tech-Lab/skills            # every other agent, via skills.sh
+```
+
+[**Browse the full catalog →**](https://mavenslab.tech/skills)
+
+<br />
+
+---
+
+## `05`  Start a project
 
 No contact form, no chatbot — just email. Every message goes straight to Alex, our founder & senior engineer, with a reply inside **2 business days**.
 
