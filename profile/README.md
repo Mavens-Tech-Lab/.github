@@ -89,6 +89,7 @@ The skills we sharpen on client work, published for everyone — free, MIT-licen
 | :-- | :-- |
 | [**json-ld**](https://mavenslab.tech/skills/json-ld) | Scans the codebase for every entity worth marking up, verifies against the live schema.org release — never model memory — and wires JSON-LD to your real data flow |
 | [**compliance-pages**](https://mavenslab.tech/skills/compliance-pages) | Reads your stack, then generates the privacy policy, terms, support, and contact pages it actually needs — plus a cookie banner that gates your real trackers |
+| [**shopify-upgrade**](https://mavenslab.tech/skills/shopify-upgrade) | Moves a codebase to a newer Shopify API version — finds every version your repo actually pins plus the dated deprecations that carry no version at all, checks each call site against the target schema, and shows you the risk before touching a file |
 
 ```sh
 /plugin marketplace add Mavens-Tech-Lab/skills   # Claude Code
